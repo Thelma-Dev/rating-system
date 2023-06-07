@@ -87,7 +87,7 @@ button.show-dialog-button {
     background-color: var(--app-pink);
     bottom: 20px;
     position: fixed;
-    right: 10%;
+    right: 5%;
 }
 
 .hide-visibility {
